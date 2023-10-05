@@ -1,6 +1,6 @@
 <h1> Project Number 07 - Lawyer HomePage ⚖ </h1>
 
-P07-Lawyer HomePage 👩🏽‍⚖️✨ - This file is about my fourth project using CSS language. I used Parallax Efect for stylize my HTML code. 😊😉. See here <a href = https://taiscostaeng.github.io/front-p07-lawyer/> See Here </a>
+P07-Lawyer HomePage 👩🏽‍⚖️✨ - This file is about my seventh project using CSS + HTML language. I learned about background propriets and I used Parallax Efect for stylize my HTML code 😊😉. <a href = https://taiscostaeng.github.io/front-p07-lawyer/> See Here </a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 👩🏽‍🔧 Languages and Tools </h2>
@@ -13,7 +13,7 @@ P07-Lawyer HomePage 👩🏽‍⚖️✨ - This file is about my fourth project 
 <h2> 🎨 Layout </h2>
 
 <h3> 👩🏽‍💻 Desktop </h3>
-<img src = "" width = 400px>
+<img src = "https://github.com/taiscostaeng/front-p07-lawyer/assets/138815703/c8e3363e-ec56-46bb-9f40-a64b522e50ac" width = 400px>
 
 
 <h3> 📱 Mobile </h3>
